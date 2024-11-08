@@ -12,6 +12,9 @@ body,h1,p {
   margin: 0;
 }
 
+.dolhpin {
+  width: 100%;
+}
 .name {
   font-family: "Comic Neue", cursive;
   font-size: 2rem;
